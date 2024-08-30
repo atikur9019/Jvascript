@@ -10,6 +10,6 @@ console.log(Boolean(0n));
  * NaN
  */
 
-if (true) {
+if (['hello']) {
     console.log('Hello world');
 }
