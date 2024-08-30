@@ -7,3 +7,7 @@ This is a multi-line comment
 Example
 */
 
+/** 
+ * This is a multi-line comment-2
+ * Example
+*/
